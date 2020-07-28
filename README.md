@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="javascript:void(0)" rel="noopener">
- <img width=400px  src="deeplearning-logo.png" alt="deeplearning-logo"></a>
+ <img width=300px  src="deeplearning-logo.png" alt="deeplearning-logo"></a>
 </p>
 
 #### Instructor(s) : Andrew Ng
